@@ -18,15 +18,15 @@ A simple and responsive login system featuring authentication and redirection.
 Below are some images showcasing the login page and dashboard:  
 
 ### Login Page  
-![Login Page Screenshot](./assets/loginPage.png)  
+![Login Page Screenshot](.public/assets/loginPage.png)  
 
 
 ### Signup Page 
-![Signup Page Screenshot](./assets/SigupPage.png) 
+![Signup Page Screenshot](.public/assets/SigupPage.png) 
 
 
 ### Dashboard  
-![Dashboard Screenshot](./assets/dashboard.png) 
+![Dashboard Screenshot](.public/assets/dashboard.png) 
 
 
 ## Feedback  
