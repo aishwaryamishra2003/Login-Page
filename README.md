@@ -13,22 +13,6 @@ A simple and responsive login system featuring authentication and redirection.
 - **Backend:** Node.js  
 - **Database:** MongoDB  
 
-## Screenshots  
-
-Below are some images showcasing the login page and dashboard:  
-
-### Login Page  
-![Login Page Screenshot](public/assets/loginPage.png)  
-
-
-### Signup Page 
-![Signup Page Screenshot](public/assets/SigupPage.png) 
-
-
-### Dashboard  
-![Dashboard Screenshot](public/assets/dashboard.png) 
-
-
 ## Feedback  
 
 If you have any suggestions or need modifications, feel free to let me know!
