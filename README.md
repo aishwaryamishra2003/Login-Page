@@ -13,5 +13,6 @@ A simple and responsive login system featuring authentication and redirection.
 - **Backend:** Node.js  
 - **Database:** MongoDB  
 
-##Licence
-Let me know if you'd like modifications!
+## Feedback  
+
+If you have any suggestions or need modifications, feel free to let me know!
